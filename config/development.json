@@ -1,0 +1,6 @@
+{
+    "DB" :{
+        "username" : "marwen1",
+        "host": "@cluster0.p4xfd.mongodb.net/ProjectNodeDB?retryWrites=true&w=majority"
+    }
+}
